@@ -98,15 +98,6 @@ ALLOW_ANON_UPLOADS=true
 - OpenAI API key required for real analysis
 
 ---------------------------------------
-🚀 Suggested Next Steps
----------------------------------------
-- improve resume section extraction (skills/education/experience)
-- add full authentication UI on frontend
-- add history view of analyzed resumes
-- deploy to Render / Railway / Vercel + MongoDB Atlas
-- add screenshots to README
-
----------------------------------------
 🎯 Summary
 ---------------------------------------
 This project lets users:
